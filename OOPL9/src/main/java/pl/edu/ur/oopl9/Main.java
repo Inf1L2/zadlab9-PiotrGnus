@@ -7,7 +7,7 @@ package pl.edu.ur.oopl9;
 import java.util.*;
 /**
  *
- * @author Roman
+ * @author Petro
  */
 public class Main {
 
