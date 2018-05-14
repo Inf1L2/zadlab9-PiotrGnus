@@ -7,7 +7,7 @@ package pl.edu.ur.oopl9;
 import java.util.*;
 /**
  *
- * @author Petro
+ * @author Roman
  */
 public class Main {
 
@@ -28,12 +28,7 @@ public class Main {
             case 2:
                 Zadanie_2.Zadanie_2();
                 break;
-            case 3 :
-                Zadanie_3.Zadanie_3();
-                break;
-            case 4:
-                Zadanie_4.Zadanie_4();
-                break;
+           
             default:
                 System.out.println("Invalid exercise number! Beginning shutdown sequence...");
                 break;
